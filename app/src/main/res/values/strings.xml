@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">貯金ガード</string>
+    <string name="service_description">マクドナルド・ロケットナウ・Uber Eatsが表示されたらホームへ戻します。設定保護を開始すると、このアプリのユーザー補助設定やアプリ情報からもホームへ戻します。画面情報は端末内の判定にだけ使用し、保存・送信しません。OFF・強制停止時には保護できません。</string>
 </resources>
